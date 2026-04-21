@@ -7,3 +7,9 @@
 - 学会 git add
 - 学会 git commit
 - 学会同步到 GitHub
+## 今天学到的内容
+- git init
+- git add
+- git commit
+- git status
+- git log --oneline
