@@ -13,3 +13,4 @@
 - git commit
 - git status
 - git log --oneline
+- 学会把本地仓库同步到 GitHub
